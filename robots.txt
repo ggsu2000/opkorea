@@ -1,0 +1,9 @@
+# [오피박사] 모든 검색 로봇 허용 설정
+User-agent: *
+Allow: /
+
+# 로봇이 사이트 구조를 한눈에 파악하도록 사이트맵 위치 지정
+Sitemap: https://xn--bh3b07f7tfv7r.com/sitemap.xml
+
+# 서버 부하 방지 (선택 사항)
+Crawl-delay: 1
